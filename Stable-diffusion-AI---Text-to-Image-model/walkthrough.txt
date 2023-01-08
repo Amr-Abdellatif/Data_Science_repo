@@ -1,0 +1,14 @@
+Stable diffusion walkthrough
+
+1 •	make a folder
+  •	install venv ()
+  •	install tkinter / customtkinter / pytorch / stablediffusion
+  •  install dependcies from requirements.txt using [pip install -r /path/to/requirements.txt]
+  •	remember to choose the right python interpreter [important]
+
+2 • make the app GUI through tkinter
+  • use huggingface.com stable diffusion ai [https://huggingface.co/CompVis/stable-diffusion-v1-4]
+  • make an account on huggingface.com 
+  • accept and read terms in stable diffusion model in hugging face
+  • generate token (read mode) [https://huggingface.co/docs/hub/security-tokens]
+  • use the token and the code to generate photos using stable diffusion

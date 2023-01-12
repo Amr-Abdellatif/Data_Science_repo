@@ -15,3 +15,22 @@
 ### Arabic language detection
 
 ![3](https://user-images.githubusercontent.com/92921252/189375243-58667855-a04e-442a-9971-ce4dd0ec4e88.JPG)
+
+
+## This project is an implementation of an OCR (Optical Character Recognition) detection model using the Tesseract libraries. Tesseract is an open-source OCR engine developed by Google that can recognize text in images and convert it into machine-readable text.
+
+The model is trained to detect text in images and convert it into machine-readable text. It is capable of recognizing various languages and can handle images with varying levels of complexity, such as images with different font sizes and styles, images with different backgrounds, and images with noise.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+## Prerequisites
+
+1-Python 3.5 or higher
+
+2-Tesseract OCR libraries
+
+3-OpenCV
+
+4-Numpy
